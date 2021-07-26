@@ -1,0 +1,1 @@
+<?php require_once(dirname(__FILE__) . '/SSI.php'); updateSettings(array('pretty_enable_filters' => '0')); ?>
